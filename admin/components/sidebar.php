@@ -12,13 +12,13 @@
                   </a>
                   </li>
                   <li class="nav-item">
-                        <a href="students.php" class="nav-link <?= basename($_SERVER['PHP_SELF']) == 'students.php' ? 'active' : ''; ?>">
+                        <a href="#" class="nav-link <?= basename($_SERVER['PHP_SELF']) == 'students.php' ? 'active' : ''; ?>">
                               <i class="bi bi-people-fill"></i>
                               <span>Students</span>
                         </a>
                   </li>
                   <li class="nav-item">
-                        <a href="teachers.php" class="nav-link <?= basename($_SERVER['PHP_SELF']) == 'teachers.php' ? 'active' : ''; ?>">
+                        <a href="#" class="nav-link <?= basename($_SERVER['PHP_SELF']) == 'teachers.php' ? 'active' : ''; ?>">
                               <i class="bi bi-person-workspace"></i>
                               <span>Teachers</span>
                         </a>
@@ -31,13 +31,13 @@
                   </a>
                   </li>
                   <li class="nav-item">
-                        <a href="reports.php" class="nav-link <?= basename($_SERVER['PHP_SELF']) == 'reports.php' ? 'active' : ''; ?>">
+                        <a href="#" class="nav-link <?= basename($_SERVER['PHP_SELF']) == 'reports.php' ? 'active' : ''; ?>">
                               <i class="bi bi-file-earmark-bar-graph"></i>
                               <span>Reports</span>
                         </a>
                   </li>
                   <li class="nav-item">
-                        <a href="settings.php" class="nav-link <?= basename($_SERVER['PHP_SELF']) == 'settings.php' ? 'active' : ''; ?>">
+                        <a href="#" class="nav-link <?= basename($_SERVER['PHP_SELF']) == 'settings.php' ? 'active' : ''; ?>">
                               <i class="bi bi-gear-fill"></i>
                               <span>Settings</span>
                         </a>

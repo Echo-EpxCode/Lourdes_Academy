@@ -842,6 +842,7 @@
                                     <h6 class="mb-1 text-navy">Timely Alerts</h6>
                                     <p class="mb-0 text-muted small">Delivered in under 60 seconds after scanning.</p>
                                 </div>
+                            </div>
                             <div class="d-flex gap-3">
                                 <div class="text-gold fs-4"><i class="bi bi-check2-circle"></i></div>
                                 <div>
@@ -929,7 +930,8 @@
                         <div class="logo-mark"><i class="bi bi-shield-fill"></i></div>
                         <span class="fs-5 fw-semibold text-white">Lourdes Academy</span>
                     </div>
-                    <p class="small" style="max-width: 380px; opacity: 0.8;">Catholic formation, academic excellence, and now, smarter attendance for a safer school community.</p>
+                    <p class="small" style="max-width: 380px; opacity: 0.8;">"Were Peace-making is life giving" <BR>
+-Pagadian Diocesan School.</p>
                 </div>
                 <div class="col-6 col-lg-2">
                     <h6 class="text-white mb-3">System</h6>
@@ -950,9 +952,9 @@
                 <div class="col-lg-3">
                     <h6 class="text-white mb-3">Contact</h6>
                     <ul class="list-unstyled small d-grid gap-2" style="opacity: 0.85;">
-                        <li><i class="bi bi-geo-alt me-2 text-gold"></i> Lourdes Academy, 123 Mabini St., QC</li>
-                        <li><i class="bi bi-envelope me-2 text-gold"></i> attendance@lourdesacademy.edu.ph</li>
-                        <li><i class="bi bi-telephone me-2 text-gold"></i> (02) 8123-4567</li>
+                        <li><i class="bi bi-geo-alt me-2 text-gold"></i> Lourdes Academy, Poblacion San Miguel, ZDS</li>
+                        <li><i class="bi bi-envelope me-2 text-gold"></i> lourdesacademy101@gmail.com</li>
+                        <li><i class="bi bi-telephone me-2 text-gold"></i> 09502915715</li>
                     </ul>
                 </div>
             <div class="footer-bottom d-flex flex-wrap justify-content-between gap-2">
@@ -1014,10 +1016,7 @@
         const toastEl = document.getElementById('successToast');
         const toast = new bootstrap.Toast(toastEl);
         const students = [
-            'Maria Santos - Grade 8 St. Joseph',
-            'John Rivera - Grade 10 St. Peter',
-            'Sophia Cruz - Grade 7 St. Claire',
-            'Ethan Lim - Grade 9 St. Francis'
+            'Dsie Jayne Perocho - Grade 10 St. Peter'
         ];
         let scanning = false;
 
