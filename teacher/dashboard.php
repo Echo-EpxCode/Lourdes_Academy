@@ -70,16 +70,9 @@
                   </tr>
                 </thead>
                 <tbody>
-                  <tr><td>2026-001</td><td>Juan Dela Cruz</td><td>Grade 10 - St. Mary</td><td><span class="badge bg-success">Present</span></td><td>7:05 AM</td></tr>
+                  <tr><td>2026-001</td><td>Dsie Jayne Perocho</td><td>Grade 10 - St. Mary</td><td><span class="badge bg-success">Present</span></td><td>7:05 AM</td></tr>
                   <tr><td>2026-002</td><td>Maria Lopez</td><td>Grade 10 - St. Mary</td><td><span class="badge bg-warning text-dark">Late</span></td><td>7:22 AM</td></tr>
                   <tr><td>2026-003</td><td>Pedro Santos</td><td>Grade 10 - St. Mary</td><td><span class="badge bg-success">Present</span></td><td>6:58 AM</td></tr>
-                  <tr><td>2026-004</td><td>Ana Reyes</td><td>Grade 10 - St. Mary</td><td><span class="badge bg-danger">Absent</span></td><td>-</td></tr>
-                  <tr><td>2026-005</td><td>Jose Cruz</td><td>Grade 10 - St. Mary</td><td><span class="badge bg-success">Present</span></td><td>7:01 AM</td></tr>
-                  <tr><td>2026-006</td><td>Sofia Garcia</td><td>Grade 10 - St. Mary</td><td><span class="badge bg-warning text-dark">Late</span></td><td>7:35 AM</td></tr>
-                  <tr><td>2026-007</td><td>Mark Tan</td><td>Grade 10 - St. Mary</td><td><span class="badge bg-success">Present</span></td><td>7:00 AM</td></tr>
-                  <tr><td>2026-008</td><td>Liza Mendoza</td><td>Grade 10 - St. Mary</td><td><span class="badge bg-success">Present</span></td><td>6:55 AM</td></tr>
-                  <tr><td>2026-009</td><td>Carlos Rivera</td><td>Grade 10 - St. Mary</td><td><span class="badge bg-danger">Absent</span></td><td>-</td></tr>
-                  <tr><td>2026-010</td><td>Elena Torres</td><td>Grade 10 - St. Mary</td><td><span class="badge bg-success">Present</span></td><td>7:08 AM</td></tr>
                 </tbody>
               </table>
             </div>
@@ -135,7 +128,7 @@
           </div>
           <div class="card-body" style="max-height:280px; overflow-y:auto;">
             <div class="activity-feed">
-              <div class="d-flex mb-3"><div class="flex-shrink-0"><span class="badge rounded-pill bg-success p-2"><i class="bi bi-check"></i></span></div><div class="flex-grow-1 ms-3"><p class="mb-0 small">Juan Dela Cruz marked <strong>Present</strong> at 7:05 AM.</p><small class="text-muted">2 mins ago</small></div></div>
+              <div class="d-flex mb-3"><div class="flex-shrink-0"><span class="badge rounded-pill bg-success p-2"><i class="bi bi-check"></i></span></div><div class="flex-grow-1 ms-3"><p class="mb-0 small">Dsie Jayne Perocho marked <strong>Present</strong> at 7:05 AM.</p><small class="text-muted">2 mins ago</small></div></div>
               <div class="d-flex mb-3"><div class="flex-shrink-0"><span class="badge rounded-pill bg-warning p-2"><i class="bi bi-clock"></i></span></div><div class="flex-grow-1 ms-3"><p class="mb-0 small">Maria Lopez marked <strong>Late</strong> at 7:22 AM.</p><small class="text-muted">15 mins ago</small></div></div>
               <div class="d-flex mb-3"><div class="flex-shrink-0"><span class="badge rounded-pill bg-success p-2"><i class="bi bi-check"></i></span></div><div class="flex-grow-1 ms-3"><p class="mb-0 small">Pedro Santos marked <strong>Present</strong> at 6:58 AM.</p><small class="text-muted">32 mins ago</small></div></div>
               <div class="d-flex mb-3"><div class="flex-shrink-0"><span class="badge rounded-pill bg-danger p-2"><i class="bi bi-x"></i></span></div><div class="flex-grow-1 ms-3"><p class="mb-0 small">Ana Reyes marked <strong>Absent</strong>.</p><small class="text-muted">1 hour ago</small></div></div>

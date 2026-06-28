@@ -110,7 +110,7 @@
 
               <div class="text-start bg-light rounded-3 p-3 mb-3">
                 <div class="d-flex justify-content-between py-1"><span class="text-muted">Student ID</span><span class="fw-semibold" id="latest-id">2026-001</span></div>
-                <div class="d-flex justify-content-between py-1"><span class="text-muted">Parent</span><span class="fw-semibold" id="latest-parent">Maria Dela Cruz</span></div>
+                <div class="d-flex justify-content-between py-1"><span class="text-muted">Parent</span><span class="fw-semibold" id="latest-parent">Maria Perocho</span></div>
                 <div class="d-flex justify-content-between py-1"><span class="text-muted">Date</span><span class="fw-semibold" id="latest-date">Jun 25, 2026</span></div>
                 <div class="d-flex justify-content-between py-1"><span class="text-muted">Time</span><span class="fw-semibold" id="latest-time">7:15 AM</span></div>
               </div>

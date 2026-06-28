@@ -693,7 +693,7 @@
                                 </div>
                                 <div class="student-id-card">
                                     <small>Student ID</small>
-                                    <strong>Santos, Maria L. — Grade 8 St. Joseph</strong>
+                                    <strong>Dsie Jayne Perocho — Grade 10 St. Mary</strong>
                                 </div>
                             </div>
                         </div>
