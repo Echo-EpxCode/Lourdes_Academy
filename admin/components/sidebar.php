@@ -12,7 +12,7 @@
                   </a>
                   </li>
                   <li class="nav-item">
-                        <a href="#" class="nav-link <?= basename($_SERVER['PHP_SELF']) == 'students.php' ? 'active' : ''; ?>">
+                        <a href="students.php" class="nav-link <?= basename($_SERVER['PHP_SELF']) == 'students.php' ? 'active' : ''; ?>">
                               <i class="bi bi-people-fill"></i>
                               <span>Students</span>
                         </a>
