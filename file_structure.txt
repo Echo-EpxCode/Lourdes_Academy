@@ -1,0 +1,34 @@
+/lourdes-attendance/
+├── /admin/
+│   ├── dashboard.php
+│   ├── students.php          ← your current page
+│   ├── teachers.php
+│   ├── attendance.php
+│   ├── reports.php
+│   └── settings.php
+├── /teacher/
+│   ├── dashboard.php
+│   ├── my-students.php
+│   └── reports.php
+├── /scanner/
+│   ├── index.php             ← QR scanner page
+│   └── process-scan.php      ← AJAX endpoint
+├── /includes/
+│   ├── db.php                ← MySQLi connection
+│   ├── functions.php         ← reusable functions
+│   ├── auth.php              ← session check
+│   └── mailer.php            ← PHPMailer config
+├── /assets/
+│   ├── css/style.css
+│   ├── js/app.js
+│   └── img/
+├── /uploads/
+│   ├── qr/                   ← generated QR codes
+│   └── profiles/
+├── /vendor/
+│   └── phpmailer/
+├── /config/
+│   └── config.php            ← site settings
+├── login.php
+├── logout.php
+└── index.php
